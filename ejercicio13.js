@@ -7,7 +7,6 @@ function crearContador() {
   };
 }
 
-// Ejemplo:
 const miContador = crearContador();
 console.log(miContador.incrementar());
 console.log(miContador.incrementar());
